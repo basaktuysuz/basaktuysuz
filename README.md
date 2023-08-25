@@ -1,22 +1,34 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-</div>
-
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<img src="https://komarev.com/ghpvc/?username=basaktuysuz&style=flat-square&color=blue" alt=""/>
+   <a href="https://www.linkedin.com/in/basak-tuysuz/">
+    <img src="https://img.shields.io/badge/LinkedIn-lightgray?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+  </a>
+ <a href="https://medium.com/@basaktuysuz1">
+    <img src="https://img.shields.io/badge/Medium-lightgray?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+  </a>
 </div>
 
+---
+
+     
 ### :woman_technologist: About Me :
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/BasakTuysuz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/basak-tuysuz/)
+I'm a software engineering student at Izmir University of Economics<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :telescope: I have a strong passion for creating Android applications.
+
+- 🌱 I’m currently learning HTML and CSS
+
+- :mailbox:How to reach me: basaktuysuz1@gmail.com
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -35,11 +47,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basaktuysuz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800" height="400"/>
+</p>
 
 <!--
 **basaktuysuz/basaktuysuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
