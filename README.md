@@ -18,18 +18,18 @@
 ---
 
      
-### About Me :
+### 🧚‍♀️: About Me :
 I'm a software engineering student at Izmir University of Economics<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I have a strong passion for creating Android applications.
+- 🔭: I have a strong passion for creating Android applications.
 
 - 🌱 I’m currently learning HTML and CSS
 
-- :mailbox:How to reach me: basaktuysuz1@gmail.com
+- 📫: How to reach me: basaktuysuz1@gmail.com
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
