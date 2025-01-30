@@ -19,7 +19,7 @@
 
      
 ### 🧚‍♀️: About Me :
-I'm a software engineering student at Izmir University of Economics<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm a software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭: I have a strong passion for creating Android applications.
 
